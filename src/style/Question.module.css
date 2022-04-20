@@ -1,0 +1,22 @@
+.question__text, .answer__container{
+    padding: 0.5rem 0;
+}
+
+.answer__container input{
+    margin-bottom: 0.5rem;
+}
+
+.question__container{
+    max-width: 1200px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.answer_options  .option_label{
+    text-align: center;
+    display: block;
+}
+
+.option_radio{
+    text-align: center;
+}

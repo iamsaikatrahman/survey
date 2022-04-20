@@ -1,0 +1,23 @@
+.heading{
+    background-color: rgb(44, 27, 59);
+    height: 50vh;
+    position: relative;
+}
+
+.heading__content{
+    color: white;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.headingtitle{
+    font-size: 2.5rem;
+}
+
+.headingsubtitle{
+    font-size: 1rem;
+    color: #ffffffb8;
+    margin-top: 1rem;
+}
